@@ -1,0 +1,8 @@
+\selectlanguage *{hebrew}
+\contentsline {chapter}{מה המדינה איננה}{5}{}%
+\contentsline {chapter}{מהי המדינה}{7}{}%
+\contentsline {chapter}{כיצד המדינה משמרת את עצמה}{10}{}%
+\contentsline {chapter}{כיצד חורגת המדינה מגבלותיה}{16}{}%
+\contentsline {chapter}{ממה המדינה חוששת}{20}{}%
+\contentsline {chapter}{כיצד מדינות מתייחסות זו לזו}{22}{}%
+\contentsline {chapter}{ההיסטוריה כמרוץ בין כוח המדינה לבין הכוח החברתי}{26}{}%
