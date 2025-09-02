@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.6.12)  2 SEP 2025 14:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.6.12)  2 SEP 2025 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,10 +582,6 @@ Package fontspec Info: Font family 'FrankRuhlLibre(0)' created for font 'Frank
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-
-LaTeX Warning: Unused global option(s):
-    [2pt].
-
 (./book.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
@@ -721,14 +717,14 @@ LaTeX Info: Redefining \ttfamily on input line 62.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(0.0pt, 304.44447pt, 0.0pt)
-* v-part:(T,H,B)=(0.0pt, 514.99487pt, 0.0pt)
+* v-part:(T,H,B)=(-0.02864pt, 515.02351pt, 0.0pt)
 * \paperwidth=304.44447pt
 * \paperheight=514.99487pt
 * \textwidth=304.44447pt
-* \textheight=514.99487pt
+* \textheight=515.02351pt
 * \oddsidemargin=-72.26999pt
 * \evensidemargin=-72.26999pt
-* \topmargin=-97.87744pt
+* \topmargin=-97.90608pt
 * \headheight=17.07164pt
 * \headsep=8.53581pt
 * \topskip=10.0pt
@@ -749,7 +745,7 @@ LaTeX Info: Redefining \ttfamily on input line 62.
 File: cover-image.jpg Graphic file (type bmp)
 <cover-image.jpg>
 
-Overfull \hbox (15.00127pt too wide) in paragraph at lines 70--71
+Overfull \hbox (14.99931pt too wide) in paragraph at lines 69--70
 [][][][][] []
  []
 
@@ -772,14 +768,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-] [1]
+]
 
 LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/it' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/n' instead on input line 87.
 
 LaTeX Font Info:    Font shape `TU/FrankRuhlLibre(0)/b/n' will be
 (Font)              scaled to size 9.17023pt on input line 89.
-[2] [3]
+[1]
 LaTeX Font Info:    Font shape `TU/FrankRuhlLibre(0)/m/n' will be
 (Font)              scaled to size 19.10039pt on input line 99.
 LaTeX Font Info:    Font shape `TU/FrankRuhlLibre(0)/b/n' will be
@@ -794,7 +790,7 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 \tf@toc=\write3
 \openout3 = `book.toc'.
 
- [4
+ [2
 
 ]
 
@@ -825,7 +821,7 @@ Overfull \hbox (11.15207pt too wide) in paragraph at lines 103--116
 אה אידיאולוגית[]
  []
 
-[5
+[3
 
 ]
 Overfull \hbox (0.86143pt too wide) in paragraph at lines 122--129
@@ -840,7 +836,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 
 LaTeX Font Info:    Font shape `TU/FrankRuhlLibre(0)/m/it' will be
 (Font)              scaled to size 9.20944pt on input line 130.
-[6]
+[4]
 Package lettrine.sty Info: Targeted height = 40.31001pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 53.68568pt (\leavevmode{\color {gr
@@ -875,7 +871,7 @@ Overfull \hbox (4.44087pt too wide) in paragraph at lines 133--134
 ל את המשאבים[]
  []
 
-[7
+[5
 
 ]
 Overfull \hbox (6.47469pt too wide) in paragraph at lines 137--138
@@ -918,13 +914,13 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 142
 .
 
-[8]
+[6]
 
 LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 143
 .
 
-[9]
+[7]
 Package lettrine.sty Info: Targeted height = 40.31001pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 53.68568pt (\leavevmode{\color {gr
@@ -978,7 +974,7 @@ Overfull \hbox (15.38472pt too wide) in paragraph at lines 146--147
 ינה לאינטלקטואלים[]
  []
 
-[10
+[8
 
 ]
 Overfull \hbox (27.3452pt too wide) in paragraph at lines 148--149
@@ -1027,7 +1023,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 153
 .
 
-[11]
+[9]
 Overfull \hbox (16.54979pt too wide) in paragraph at lines 154--155
 []\TU/FrankRuhlLibre(0)/m/it/10 שלה. במיוחד הצליחה המדינה במאות האחרונות לגרום 
 לפחד משלטונות[]
@@ -1086,7 +1082,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 157
 .
 
-[12]
+[10]
 Overfull \hbox (6.19022pt too wide) in paragraph at lines 158--159
 []\TU/FrankRuhlLibre(0)/m/it/10 סלידה מכל "תיאוריית קונספירציה היסטורית"; חיפוש
  "קונספירציות"[]
@@ -1139,7 +1135,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 161
 .
 
-[13]
+[11]
 Overfull \hbox (9.71875pt too wide) in paragraph at lines 162--163
 [][]\TU/FrankRuhlLibre(0)/m/it/10 בעידן החילוני יותר של היום, הזכות האלוהית של 
 המדינה הושלמה[]
@@ -1181,13 +1177,13 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 170
 .
 
-[14]
+[12]
 
 LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 172
 .
 
-[15]
+[13]
 Overfull \hbox (31.89404pt too wide) in paragraph at lines 172--172
 []|\TU/FrankRuhlLibre(0)/b/n/24.88 כיצד חורגת המדינה מגבלותיה| []
  []
@@ -1239,7 +1235,7 @@ Overfull \hbox (18.91092pt too wide) in paragraph at lines 179--180
  הפכה מארגומנטים[]
  []
 
-[16
+[14
 
 ]
 Overfull \hbox (0.56207pt too wide) in paragraph at lines 181--182
@@ -1288,7 +1284,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 192
 .
 
-[17]
+[15]
 Overfull \hbox (4.18065pt too wide) in paragraph at lines 198--199
 [][]\TU/FrankRuhlLibre(0)/m/n/9 "הבעיה, אם כן, היא להמציא אמצעים ממשלתיים להחלט
 ה[]
@@ -1317,7 +1313,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 213
 .
 
-[18]
+[16]
 Overfull \hbox (15.68094pt too wide) in paragraph at lines 215--216
 [][]\TU/FrankRuhlLibre(0)/m/it/10 ללא בית המשפט העליון לא היה לנו אמצעי אחר להע
 נקת לגיטימציה[]
@@ -1352,7 +1348,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 223
 .
 
-[19]
+[17]
 Package lettrine.sty Info: Targeted height = 40.31001pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 53.68568pt (\leavevmode{\color {gr
@@ -1376,7 +1372,7 @@ Overfull \hbox (1.00615pt too wide) in paragraph at lines 226--227
 בים למדינה,[]
  []
 
-[20
+[18
 
 ]
 Overfull \hbox (0.15086pt too wide) in paragraph at lines 228--229
@@ -1395,7 +1391,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 231
 .
 
-[21]
+[19]
 Package lettrine.sty Info: Targeted height = 40.31001pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 53.68568pt (\leavevmode{\color {gr
@@ -1431,7 +1427,7 @@ Overfull \hbox (17.21803pt too wide) in paragraph at lines 234--235
 על-מדינה בינלאומית[]
  []
 
-[22
+[20
 
 ]
 Overfull \hbox (13.36322pt too wide) in paragraph at lines 236--237
@@ -1468,7 +1464,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 246
 .
 
-[23]
+[21]
 Overfull \hbox (8.03955pt too wide) in paragraph at lines 248--249
 [][]\TU/FrankRuhlLibre(0)/m/it/10 ומאחר שהמסחר הוכר יותר ויותר כמועיל לשני הצדד
 ים, המלחמה[]
@@ -1503,13 +1499,13 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 253
 .
 
-[24]
+[22]
 
 LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 254
 .
 
-[25]
+[23]
 Overfull \hbox (3.69405pt too wide) in paragraph at lines 254--254
 []\TU/FrankRuhlLibre(0)/b/n/24.88 המדינה לבין הכוח החברתי| []
  []
@@ -1537,7 +1533,7 @@ Overfull \hbox (15.11212pt too wide) in paragraph at lines 259--260
 חרי ההתקדמות—[]
  []
 
-[26
+[24
 
 ]
 Overfull \hbox (12.17151pt too wide) in paragraph at lines 261--262
@@ -1606,7 +1602,7 @@ LaTeX Font Warning: Font shape `TU/FrankRuhlLibre(0)/m/sl' undefined
 (Font)              using `TU/FrankRuhlLibre(0)/m/it' instead on input line 263
 .
 
-[27] (./book.aux
+[25] (./book.aux
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
@@ -1616,12 +1612,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 8789 strings out of 476191
- 203472 string characters out of 5812072
- 656339 words of memory out of 5000000
- 29349 multiletter control sequences out of 15000+600000
+ 8788 strings out of 476191
+ 203466 string characters out of 5812072
+ 656341 words of memory out of 5000000
+ 29348 multiletter control sequences out of 15000+600000
  472171 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  83i,6n,118p,1307b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.pdf (29 pages).
+Output written on book.pdf (27 pages).

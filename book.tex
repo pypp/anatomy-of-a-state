@@ -1,4 +1,4 @@
-\documentclass[12pt,oneside]{book}
+\documentclass[10pt,oneside]{book}
 
 \usepackage{ragged2e}
 \usepackage{geometry} 
@@ -60,25 +60,25 @@
 % \date{20.02.1925}
 
 \begin{document}
-\justifying
 
 % ===============================
 % Full-page cover image
 % ===============================
-\newgeometry{top=0cm, bottom=0cm, left=0cm, right=0cm} % remove margins
+\newgeometry{top=-0.001cm, bottom=0cm, left=0cm, right=0cm} % remove margins
 \thispagestyle{empty}
 \includegraphics[width=\paperwidth,height=\paperheight]{cover-image.jpg}
 \restoregeometry
 \newpage
 
-% Title page (optional in TOC)
+\justifying
 
+% Title page (optional in TOC)
 \newpage
 \maketitle
 \thispagestyle{empty}
 
 
-\emptypage
+%\emptypage
 
 % Quote page
 \thispagestyle{empty}
@@ -91,7 +91,7 @@
 \newpage
 
 
-\emptypage
+%\emptypage
 
 % ===============================
 % Table of contents
